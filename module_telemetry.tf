@@ -1,1 +1,3 @@
-resource "modtm_telemetry" "this" {}
+resource "modtm_telemetry" "this" {
+
+}
