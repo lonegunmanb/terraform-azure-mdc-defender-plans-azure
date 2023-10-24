@@ -6,6 +6,6 @@ resource "modtm_telemetry" "this" {
     avm_git_org              = "lonegunmanb"
     avm_git_repo             = "terraform-azure-mdc-defender-plans-azure"
     avm_yor_name             = "this"
-    avm_yor_trace            = "e8fa1288-5384-4d8d-8c58-e297e99a6f39"
+    avm_yor_trace            = "06401e91-c045-45ff-9632-ba51fd965bf7"
   }
 }
